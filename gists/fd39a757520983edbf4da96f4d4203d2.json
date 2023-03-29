@@ -1,0 +1,82 @@
+{
+    "url": "https://api.github.com/gists/fd39a757520983edbf4da96f4d4203d2",
+    "forks_url": "https://api.github.com/gists/fd39a757520983edbf4da96f4d4203d2/forks",
+    "commits_url": "https://api.github.com/gists/fd39a757520983edbf4da96f4d4203d2/commits",
+    "id": "fd39a757520983edbf4da96f4d4203d2",
+    "node_id": "G_kwDOAHs1C9oAIGZkMzlhNzU3NTIwOTgzZWRiZjRkYTk2ZjRkNDIwM2Qy",
+    "git_pull_url": "https://gist.github.com/fd39a757520983edbf4da96f4d4203d2.git",
+    "git_push_url": "https://gist.github.com/fd39a757520983edbf4da96f4d4203d2.git",
+    "html_url": "https://gist.github.com/crakernano/fd39a757520983edbf4da96f4d4203d2",
+    "files": {
+        "actualizarDependenciasJS.md": {
+            "filename": "actualizarDependenciasJS.md",
+            "type": "text/markdown",
+            "language": "Markdown",
+            "raw_url": "https://gist.githubusercontent.com/crakernano/fd39a757520983edbf4da96f4d4203d2/raw/6282ad982c82f4a1ce377f6c9e406d61a193fdc1/actualizarDependenciasJS.md",
+            "size": 197,
+            "truncated": false,
+            "content": "## Instalar la utilidad para detectar librerias deprecadas\nnpm install -g npm-check-updates\n\n## buscar librerias desactualizadas y listarlas\nncu\n\n## Actualizar librerias a la ultima versión\nncu -u"
+        }
+    },
+    "public": true,
+    "created_at": "2021-10-08T10:39:56Z",
+    "updated_at": "2021-10-08T10:39:56Z",
+    "description": "",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/fd39a757520983edbf4da96f4d4203d2/comments",
+    "owner": {
+        "login": "crakernano",
+        "id": 8074507,
+        "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/crakernano",
+        "html_url": "https://github.com/crakernano",
+        "followers_url": "https://api.github.com/users/crakernano/followers",
+        "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+        "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+        "organizations_url": "https://api.github.com/users/crakernano/orgs",
+        "repos_url": "https://api.github.com/users/crakernano/repos",
+        "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/crakernano/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "forks": [],
+    "history": [
+        {
+            "user": {
+                "login": "crakernano",
+                "id": 8074507,
+                "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/crakernano",
+                "html_url": "https://github.com/crakernano",
+                "followers_url": "https://api.github.com/users/crakernano/followers",
+                "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+                "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+                "organizations_url": "https://api.github.com/users/crakernano/orgs",
+                "repos_url": "https://api.github.com/users/crakernano/repos",
+                "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/crakernano/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "version": "19375d2e6546919787ad6a2b3f31366d3b760562",
+            "committed_at": "2021-10-08T10:39:56Z",
+            "change_status": {
+                "total": 8,
+                "additions": 8,
+                "deletions": 0
+            },
+            "url": "https://api.github.com/gists/fd39a757520983edbf4da96f4d4203d2/19375d2e6546919787ad6a2b3f31366d3b760562"
+        }
+    ],
+    "truncated": false
+}

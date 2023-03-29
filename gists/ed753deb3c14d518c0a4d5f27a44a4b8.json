@@ -1,0 +1,112 @@
+{
+    "url": "https://api.github.com/gists/ed753deb3c14d518c0a4d5f27a44a4b8",
+    "forks_url": "https://api.github.com/gists/ed753deb3c14d518c0a4d5f27a44a4b8/forks",
+    "commits_url": "https://api.github.com/gists/ed753deb3c14d518c0a4d5f27a44a4b8/commits",
+    "id": "ed753deb3c14d518c0a4d5f27a44a4b8",
+    "node_id": "MDQ6R2lzdGVkNzUzZGViM2MxNGQ1MThjMGE0ZDVmMjdhNDRhNGI4",
+    "git_pull_url": "https://gist.github.com/ed753deb3c14d518c0a4d5f27a44a4b8.git",
+    "git_push_url": "https://gist.github.com/ed753deb3c14d518c0a4d5f27a44a4b8.git",
+    "html_url": "https://gist.github.com/crakernano/ed753deb3c14d518c0a4d5f27a44a4b8",
+    "files": {
+        "crear_repo.sh": {
+            "filename": "crear_repo.sh",
+            "type": "application/x-sh",
+            "language": "Shell",
+            "raw_url": "https://gist.githubusercontent.com/crakernano/ed753deb3c14d518c0a4d5f27a44a4b8/raw/dee2883853b93bb24880b3b187d1a73afa53dcd7/crear_repo.sh",
+            "size": 97,
+            "truncated": false,
+            "content": "git init && git add . && git commit -m \"Version inicial\" && git tag -a -m \"Version inicial\" 0.0.0"
+        }
+    },
+    "public": true,
+    "created_at": "2021-07-30T07:18:59Z",
+    "updated_at": "2023-03-24T11:21:42Z",
+    "description": "Comando para crear e inicializar un repositorio",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/ed753deb3c14d518c0a4d5f27a44a4b8/comments",
+    "owner": {
+        "login": "crakernano",
+        "id": 8074507,
+        "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/crakernano",
+        "html_url": "https://github.com/crakernano",
+        "followers_url": "https://api.github.com/users/crakernano/followers",
+        "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+        "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+        "organizations_url": "https://api.github.com/users/crakernano/orgs",
+        "repos_url": "https://api.github.com/users/crakernano/repos",
+        "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/crakernano/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "forks": [],
+    "history": [
+        {
+            "user": {
+                "login": "crakernano",
+                "id": 8074507,
+                "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/crakernano",
+                "html_url": "https://github.com/crakernano",
+                "followers_url": "https://api.github.com/users/crakernano/followers",
+                "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+                "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+                "organizations_url": "https://api.github.com/users/crakernano/orgs",
+                "repos_url": "https://api.github.com/users/crakernano/repos",
+                "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/crakernano/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "version": "ace3b03d7a2631521822f99ff9e58a30d7e8eca4",
+            "committed_at": "2023-03-24T11:21:42Z",
+            "change_status": {
+                "total": 0,
+                "additions": 0,
+                "deletions": 0
+            },
+            "url": "https://api.github.com/gists/ed753deb3c14d518c0a4d5f27a44a4b8/ace3b03d7a2631521822f99ff9e58a30d7e8eca4"
+        },
+        {
+            "user": {
+                "login": "crakernano",
+                "id": 8074507,
+                "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/crakernano",
+                "html_url": "https://github.com/crakernano",
+                "followers_url": "https://api.github.com/users/crakernano/followers",
+                "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+                "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+                "organizations_url": "https://api.github.com/users/crakernano/orgs",
+                "repos_url": "https://api.github.com/users/crakernano/repos",
+                "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/crakernano/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "version": "fbbed99119d3d4ef715a21922a95806d2a65fb10",
+            "committed_at": "2021-07-30T07:18:59Z",
+            "change_status": {
+                "total": 1,
+                "additions": 1,
+                "deletions": 0
+            },
+            "url": "https://api.github.com/gists/ed753deb3c14d518c0a4d5f27a44a4b8/fbbed99119d3d4ef715a21922a95806d2a65fb10"
+        }
+    ],
+    "truncated": false
+}

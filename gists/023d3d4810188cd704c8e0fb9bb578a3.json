@@ -1,0 +1,82 @@
+{
+    "url": "https://api.github.com/gists/023d3d4810188cd704c8e0fb9bb578a3",
+    "forks_url": "https://api.github.com/gists/023d3d4810188cd704c8e0fb9bb578a3/forks",
+    "commits_url": "https://api.github.com/gists/023d3d4810188cd704c8e0fb9bb578a3/commits",
+    "id": "023d3d4810188cd704c8e0fb9bb578a3",
+    "node_id": "G_kwDOAHs1C9oAIDAyM2QzZDQ4MTAxODhjZDcwNGM4ZTBmYjliYjU3OGEz",
+    "git_pull_url": "https://gist.github.com/023d3d4810188cd704c8e0fb9bb578a3.git",
+    "git_push_url": "https://gist.github.com/023d3d4810188cd704c8e0fb9bb578a3.git",
+    "html_url": "https://gist.github.com/crakernano/023d3d4810188cd704c8e0fb9bb578a3",
+    "files": {
+        "erase_pip_packages.sh": {
+            "filename": "erase_pip_packages.sh",
+            "type": "application/x-sh",
+            "language": "Shell",
+            "raw_url": "https://gist.githubusercontent.com/crakernano/023d3d4810188cd704c8e0fb9bb578a3/raw/0d18024ba1d5aa9f51f649e253cb5ab499223dc8/erase_pip_packages.sh",
+            "size": 35,
+            "truncated": false,
+            "content": "pip freeze | xargs pip uninstall -y"
+        }
+    },
+    "public": true,
+    "created_at": "2021-10-26T07:54:28Z",
+    "updated_at": "2023-03-24T11:22:37Z",
+    "description": "Eliminar todos los paquetes instalados con PIP",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/023d3d4810188cd704c8e0fb9bb578a3/comments",
+    "owner": {
+        "login": "crakernano",
+        "id": 8074507,
+        "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/crakernano",
+        "html_url": "https://github.com/crakernano",
+        "followers_url": "https://api.github.com/users/crakernano/followers",
+        "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+        "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+        "organizations_url": "https://api.github.com/users/crakernano/orgs",
+        "repos_url": "https://api.github.com/users/crakernano/repos",
+        "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/crakernano/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "forks": [],
+    "history": [
+        {
+            "user": {
+                "login": "crakernano",
+                "id": 8074507,
+                "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/crakernano",
+                "html_url": "https://github.com/crakernano",
+                "followers_url": "https://api.github.com/users/crakernano/followers",
+                "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+                "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+                "organizations_url": "https://api.github.com/users/crakernano/orgs",
+                "repos_url": "https://api.github.com/users/crakernano/repos",
+                "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/crakernano/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "version": "27da9eb2aba53cc622d1fd9807bc9de940681c13",
+            "committed_at": "2021-10-26T07:54:28Z",
+            "change_status": {
+                "total": 1,
+                "additions": 1,
+                "deletions": 0
+            },
+            "url": "https://api.github.com/gists/023d3d4810188cd704c8e0fb9bb578a3/27da9eb2aba53cc622d1fd9807bc9de940681c13"
+        }
+    ],
+    "truncated": false
+}

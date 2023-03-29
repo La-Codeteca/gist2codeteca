@@ -1,0 +1,82 @@
+{
+    "url": "https://api.github.com/gists/11290b335065ee8f6eccb45728e89b1b",
+    "forks_url": "https://api.github.com/gists/11290b335065ee8f6eccb45728e89b1b/forks",
+    "commits_url": "https://api.github.com/gists/11290b335065ee8f6eccb45728e89b1b/commits",
+    "id": "11290b335065ee8f6eccb45728e89b1b",
+    "node_id": "MDQ6R2lzdDExMjkwYjMzNTA2NWVlOGY2ZWNjYjQ1NzI4ZTg5YjFi",
+    "git_pull_url": "https://gist.github.com/11290b335065ee8f6eccb45728e89b1b.git",
+    "git_push_url": "https://gist.github.com/11290b335065ee8f6eccb45728e89b1b.git",
+    "html_url": "https://gist.github.com/crakernano/11290b335065ee8f6eccb45728e89b1b",
+    "files": {
+        "Eliminar comillas dobles en bash": {
+            "filename": "Eliminar comillas dobles en bash",
+            "type": "text/plain",
+            "language": null,
+            "raw_url": "https://gist.githubusercontent.com/crakernano/11290b335065ee8f6eccb45728e89b1b/raw/383790e92c9ac86b7e894392e53bf218a5823116/Eliminar%20comillas%20dobles%20en%20bash",
+            "size": 21,
+            "truncated": false,
+            "content": "sed -e 's|[\"'\\'']||g'"
+        }
+    },
+    "public": true,
+    "created_at": "2021-07-12T10:31:55Z",
+    "updated_at": "2021-07-12T10:31:55Z",
+    "description": "Eliminar comillas dobles de una cadena de texto usando sed",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/11290b335065ee8f6eccb45728e89b1b/comments",
+    "owner": {
+        "login": "crakernano",
+        "id": 8074507,
+        "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/crakernano",
+        "html_url": "https://github.com/crakernano",
+        "followers_url": "https://api.github.com/users/crakernano/followers",
+        "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+        "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+        "organizations_url": "https://api.github.com/users/crakernano/orgs",
+        "repos_url": "https://api.github.com/users/crakernano/repos",
+        "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/crakernano/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "forks": [],
+    "history": [
+        {
+            "user": {
+                "login": "crakernano",
+                "id": 8074507,
+                "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/crakernano",
+                "html_url": "https://github.com/crakernano",
+                "followers_url": "https://api.github.com/users/crakernano/followers",
+                "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+                "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+                "organizations_url": "https://api.github.com/users/crakernano/orgs",
+                "repos_url": "https://api.github.com/users/crakernano/repos",
+                "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/crakernano/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "version": "24010ef09ff7c77c6bd7eb9378c2b700095bd434",
+            "committed_at": "2021-07-12T10:31:55Z",
+            "change_status": {
+                "total": 1,
+                "additions": 1,
+                "deletions": 0
+            },
+            "url": "https://api.github.com/gists/11290b335065ee8f6eccb45728e89b1b/24010ef09ff7c77c6bd7eb9378c2b700095bd434"
+        }
+    ],
+    "truncated": false
+}

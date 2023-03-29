@@ -1,0 +1,112 @@
+{
+    "url": "https://api.github.com/gists/09496e9ff1fc2527cd88e599168b8553",
+    "forks_url": "https://api.github.com/gists/09496e9ff1fc2527cd88e599168b8553/forks",
+    "commits_url": "https://api.github.com/gists/09496e9ff1fc2527cd88e599168b8553/commits",
+    "id": "09496e9ff1fc2527cd88e599168b8553",
+    "node_id": "MDQ6R2lzdDA5NDk2ZTlmZjFmYzI1MjdjZDg4ZTU5OTE2OGI4NTUz",
+    "git_pull_url": "https://gist.github.com/09496e9ff1fc2527cd88e599168b8553.git",
+    "git_push_url": "https://gist.github.com/09496e9ff1fc2527cd88e599168b8553.git",
+    "html_url": "https://gist.github.com/crakernano/09496e9ff1fc2527cd88e599168b8553",
+    "files": {
+        "permisos_directorio_web.sh": {
+            "filename": "permisos_directorio_web.sh",
+            "type": "application/x-sh",
+            "language": "Shell",
+            "raw_url": "https://gist.githubusercontent.com/crakernano/09496e9ff1fc2527cd88e599168b8553/raw/d03e4ee628565c18b33584313084cf8578bda4c3/permisos_directorio_web.sh",
+            "size": 107,
+            "truncated": false,
+            "content": "chown -R www:www *\n\nfind /var/www -type d -exec chmod 755 {} \\;\nfind /var/www -type f -exec chmod 644 {} \\;"
+        }
+    },
+    "public": true,
+    "created_at": "2021-09-12T19:15:29Z",
+    "updated_at": "2023-03-24T11:24:28Z",
+    "description": "Script para asignar automáticamente los permisos necesarios para que puedan ser servidor correctamente en un servidor web",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/09496e9ff1fc2527cd88e599168b8553/comments",
+    "owner": {
+        "login": "crakernano",
+        "id": 8074507,
+        "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/crakernano",
+        "html_url": "https://github.com/crakernano",
+        "followers_url": "https://api.github.com/users/crakernano/followers",
+        "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+        "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+        "organizations_url": "https://api.github.com/users/crakernano/orgs",
+        "repos_url": "https://api.github.com/users/crakernano/repos",
+        "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/crakernano/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "forks": [],
+    "history": [
+        {
+            "user": {
+                "login": "crakernano",
+                "id": 8074507,
+                "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/crakernano",
+                "html_url": "https://github.com/crakernano",
+                "followers_url": "https://api.github.com/users/crakernano/followers",
+                "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+                "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+                "organizations_url": "https://api.github.com/users/crakernano/orgs",
+                "repos_url": "https://api.github.com/users/crakernano/repos",
+                "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/crakernano/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "version": "a0fe246e21a74928922243af035f914bde9b98e5",
+            "committed_at": "2023-03-24T11:24:24Z",
+            "change_status": {
+                "total": 0,
+                "additions": 0,
+                "deletions": 0
+            },
+            "url": "https://api.github.com/gists/09496e9ff1fc2527cd88e599168b8553/a0fe246e21a74928922243af035f914bde9b98e5"
+        },
+        {
+            "user": {
+                "login": "crakernano",
+                "id": 8074507,
+                "node_id": "MDQ6VXNlcjgwNzQ1MDc=",
+                "avatar_url": "https://avatars.githubusercontent.com/u/8074507?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/crakernano",
+                "html_url": "https://github.com/crakernano",
+                "followers_url": "https://api.github.com/users/crakernano/followers",
+                "following_url": "https://api.github.com/users/crakernano/following{/other_user}",
+                "gists_url": "https://api.github.com/users/crakernano/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/crakernano/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/crakernano/subscriptions",
+                "organizations_url": "https://api.github.com/users/crakernano/orgs",
+                "repos_url": "https://api.github.com/users/crakernano/repos",
+                "events_url": "https://api.github.com/users/crakernano/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/crakernano/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "version": "dd8742d2eb8d78396523446994d698dfbb85274a",
+            "committed_at": "2021-09-12T19:15:29Z",
+            "change_status": {
+                "total": 4,
+                "additions": 4,
+                "deletions": 0
+            },
+            "url": "https://api.github.com/gists/09496e9ff1fc2527cd88e599168b8553/dd8742d2eb8d78396523446994d698dfbb85274a"
+        }
+    ],
+    "truncated": false
+}

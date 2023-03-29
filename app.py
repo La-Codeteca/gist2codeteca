@@ -31,7 +31,7 @@ def main():
     generate_pill(unprocessed_gists)
     
     #Subir ficheros automaticamente a gitlab
-    '''
+
     sha_commit = publis_gist(unprocessed_gists)
 
     #Tagear version
@@ -46,7 +46,7 @@ def main():
     create_release(tag=new_tag,\
            owner=owner,\
            repo=repo)
-    '''
+
     # ToDo: Notificar la subida
 
 main()
